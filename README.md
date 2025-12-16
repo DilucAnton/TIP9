@@ -13,7 +13,7 @@
 
 Для корректного разделения ответственности проект был структурирован по слоям: конфигурация, работа с базой данных, HTTP-обработчики и точка входа.
 
-<img width="295" height="337" alt="project-structure" src="https://github.com/user-attachments/assets/7da6532b-11b7-4e9f-a94f-ee119684305b" />
+<img width="438" height="630" alt="image" src="https://github.com/user-attachments/assets/23865d9c-6201-450c-b02c-c83e26a8c814" />
 
 ---
 
