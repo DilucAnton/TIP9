@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"example.com/gopracz9-borisovda/internal/core"
-	"example.com/gopracz9-borisovda/internal/repo"
+	"example.com/slayyyter/internal/core"
+	"example.com/slayyyter/internal/repo"
 	"golang.org/x/crypto/bcrypt"
 )
 
