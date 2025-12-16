@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"example.com/gopracz9-borisovda/internal/core"
+	"example.com/slayyyter/internal/core"
 	"gorm.io/gorm"
 )
 
