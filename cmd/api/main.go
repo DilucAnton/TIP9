@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"example.com/gopracz9-borisovda/internal/http/handlers"
-	"example.com/gopracz9-borisovda/internal/repo"
-	"example.com/gopracz9-borisovda/platform/config"
+	"example.com/slayyyter/internal/http/handlers"
+	"example.com/slayyyter/internal/repo"
+	"example.com/slayyyter/platform/config"
 	"github.com/go-chi/chi/v5"
 )
 
