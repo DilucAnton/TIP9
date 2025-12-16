@@ -1,4 +1,4 @@
-module example.com/gopracz9-borisovda
+module example.com/slayyyter
 
 go 1.25.1
 
